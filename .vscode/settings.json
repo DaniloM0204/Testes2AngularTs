@@ -1,6 +1,3 @@
 {
-    "typescript.preferences.quoteStyle": "single",
-    "cSpell.words": [
-        "Ngmodule"
-    ]
+    "typescript.preferences.quoteStyle": "single"
 }
